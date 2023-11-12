@@ -24,6 +24,15 @@ body {
     place-items: center;
 }
 
+.clip-bg::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: black;
+    position: absolute;
+    opacity: 0.3;
+}
+
 .clip-bg h1 {
     font-size: 6rem;
     color: white;
