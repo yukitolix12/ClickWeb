@@ -6,6 +6,15 @@
     font-family: "Poppins", sans-serif;
 }
 
+body {
+    background: linear-gradient(
+        90deg,
+        rgba(96, 89, 227, 1) 20%,
+        rgba(133, 183, 195, 1) 55%
+      );
+      overflow: hidden;
+}
+
 .clip-bg {
     background-image: url("./images/bg.jpg");
     height: 100vh;
