@@ -64,3 +64,9 @@ header {
     align-items: center;
     padding: 2rem
 }
+
+header h3 {
+    font-size: 1.7rem;
+    margin-left: 1.3rem;
+    color: white;
+}
