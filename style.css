@@ -52,3 +52,8 @@ body {
     transition: all 0.5s ease;
     cursor: pointer;
 }
+
+.clip-bg button:hover {
+    background-color: white;
+    color: rgb(57, 120, 202);
+}
