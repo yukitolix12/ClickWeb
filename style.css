@@ -38,3 +38,17 @@ body {
     color: white;
     z-index: 1;
 }
+
+.clip-bg button {
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    padding: 1rem 3.6rem;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 1.4rem;
+    z-index: 1;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
