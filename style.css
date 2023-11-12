@@ -36,4 +36,5 @@ body {
 .clip-bg h1 {
     font-size: 6rem;
     color: white;
+    z-index: 1;
 }
